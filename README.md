@@ -1,6 +1,6 @@
 # zkSync-Bridger
 
- [💎My Profile💎](https://github.com/ryu666zaki/) | [🍩Donate🍩](https://debank.com/hi/0x2Dbc75d49a47Cdf36A3C63f8802Dcc0F3766b386) | [🗄My projects🗄](https://github.com/ryu666zaki?tab=repositories) 
+ [💎My Profile💎](https://github.com/ryu666zaki/) | [🍩Donate🍩](https://debank.com/hi/0x27512edc51cAd8a5277090183858677915CC95c4) | [🗄My projects🗄](https://github.com/ryu666zaki?tab=repositories) 
 
 ![](/assets/images/zksync.png)
 
@@ -28,4 +28,4 @@ pip install web3
   ```
   python main.py
   ```
- 🍩**Donate**: `0x2Dbc75d49a47Cdf36A3C63f8802Dcc0F3766b386`
+ 🍩**Donate**: `0x27512edc51cAd8a5277090183858677915CC95c4`
