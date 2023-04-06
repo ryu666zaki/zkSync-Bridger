@@ -25,6 +25,6 @@ pip install web3
 
   5. Now you're ready to start:
   ```
-  python main.py`
+  python main.py
   ```
-#### Donate: 0x8C1Da68cA09CC8f0E02BD015E28F3175B0Ee36CC
+#### 🍩Donate🍩: [0x8C1Da68cA09CC8f0E02BD015E28F3175B0Ee36CC](https://debank.com/profile/0x8c1da68ca09cc8f0e02bd015e28f3175b0ee36cc)
