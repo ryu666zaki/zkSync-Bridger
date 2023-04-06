@@ -1,9 +1,10 @@
 # zkSync-Bridger
 
-### <sup>Simple Script for bridge ETH from Mainet to zkSync Era when gas price is low.</sup>
+ [💎My Profile💎](https://github.com/ryu666zaki/) | [🍩Donate🍩](https://debank.com/profile/0x8c1da68ca09cc8f0e02bd015e28f3175b0ee36cc) | [🗄My projects🗄](https://github.com/ryu666zaki?tab=repositories) 
 
 ![](/assets/images/zksync.png)
 
+### <sub>Simple Script for bridge ETH from Mainet to zkSync Era when gas price is low.</sub>
 
 ### <sup>***❗You need to have Python 3.10+ installed❗***</sup>
 
