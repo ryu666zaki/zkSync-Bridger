@@ -18,6 +18,7 @@
 ```
 python3.10 -m venv .venv
 source .venv/bin/activate
+pip install web3
 ```
 
   4. Open the `main.py` and edit the values below the comments to suit your needs.
