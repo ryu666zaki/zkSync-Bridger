@@ -1,11 +1,16 @@
 import asyncio
 from web3 import Web3
 
-ETHEREUM_NODE_URL = "https://rpc.rpc/"  # Введите своё рпц
-GWEI = 20  # введите число гвей при котором вы бы хотели совершить транзакцию
-eth_quantity_to_bridge = 0.001  # введите сумму которую хотите забриджить
+# Put your RPC link from provider
+ETHEREUM_NODE_URL = "https://rpc.rpc/" 
 
-# Вставьте свои приватники
+# Enter the gwei ammount at which you would like to perform the transaction
+GWEI = 20 
+
+# Put price that you want to bridge
+eth_quantity_to_bridge = 0.001 
+
+# Put your private keys as shown => 'yourprivate',
 PRIVATE_KEYS = ['privatekey',
                 'privatekey',
                 'privatekey',
