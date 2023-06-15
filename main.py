@@ -58,18 +58,18 @@ async def interact_with_contract(wallet_address, private_key):
 
 
 async def main():
-    accounts = {}
+    keys = {}
     for KEY in PRIVATE_KEYS:
         account = w3.eth.account.from_key(KEY)
         wallet_address = account.address
-        accounts[account] = wallet_address
+        keys[KEY] = wallet_address
 
     while True:
         gas_price = w3.eth.gas_price
         gwei_gas_price = w3.from_wei(gas_price, 'gwei')
 
         if gwei_gas_price < GWEI:
-            tasks = [interact_with_contract(accounts[account]) for account in accounts.keys()]
+            tasks = [interact_with_contract(keys[key],key) for key in keys.keys()]
             await asyncio.gather(*tasks)
 
         await asyncio.sleep(5)
